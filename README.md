@@ -1,0 +1,1 @@
+The test_dfd.m file contains the test script that runs the DfD algorithm for any of the 3 photo stacks, as well as a section that runs the refocusing algorithm.
